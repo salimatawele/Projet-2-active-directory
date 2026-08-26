@@ -5,7 +5,7 @@ Chaque utilisateur est rattaché à son Unité Organisationnelle (OU) respective
 | Prénom & Nom | Nom de session (Logon) | Département (OU) | Groupe d'appartenance |
 | :--- | :--- | :--- | :--- |
 | **Alice Dupont** | adupont | RH | GRP-RH |
-| **Bob Martin** | bmartin | IT | GRP-IT |
-| **Claire Leroy** | cleroy | Direction | GRP-Direction |
+| **Ahmet Salif** | ahsalif | IT | GRP-IT |
+| **Zeina Joseph** | zjoseph | Direction | GRP-Direction |
 
 > **Note de configuration :** Les mots de comptes ont été configurés avec l'option "Le mot de passe n'expire jamais" (Password never expires) pour les besoins du laboratoire de test.
