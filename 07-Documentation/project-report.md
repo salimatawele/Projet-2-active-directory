@@ -26,6 +26,7 @@ L'infrastructure repose sur un modèle client-serveur virtualisé comprenant :
      Users   Users    Users
        │       │        │
       PC      PC       PC
+```
 
 ## 3. Suivi du Déploiement par Jour (Planning Réalisé)
 
