@@ -1,5 +1,3 @@
-### 5. 06-tests/gpo-tests.md
-
 # Tests des Stratégies de Groupe (GPO)
 
 ## Objectif
